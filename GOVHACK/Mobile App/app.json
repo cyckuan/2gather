@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "19.0.0",
+    "name": "2 gather",
+    "loading": {
+      "icon": "loading-icon.png",
+      "backgroundColor": "#4ab55d"
+    }
+  }
+}
